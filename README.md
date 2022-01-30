@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋‍♂️ About me
+🔭 I’m currently working as a Associate Developer at Jivox Software
+
+🌱 Always eager to improve my Data Structures and Algorithms skills.
+
+🏛️ 3 years of Solid development experience.
+
+🍪 Expertise in building custom and scalable code base.
+
+⚡ Fun fact: I love Travelling
+
+
+📞 Contact me
+📫 Email: vinupaul9999@gmail.com
+
+🚀 Languages and Tools:
+
+JS
