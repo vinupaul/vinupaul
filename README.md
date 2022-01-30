@@ -39,7 +39,8 @@
 </p> 
 <br/>
 
-## Specialities
+<!-- Add in case you change your mind -->
+<!-- ## Specialities
 
 <p>
 	<span>
@@ -50,7 +51,7 @@
     <img src="https://img.shields.io/badge/-Highly scalable code-white?color=black&style=for-the-badge" alt="Data layers">
 </p>
 
-</br>
+</br> -->
 
 <!-- ## 📊 My Github Stats
 
