@@ -5,13 +5,15 @@
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently working as a full-time Frontend developer at **[Jivox](https://jivox.com/)**
+- 🔭 I’m currently working as a full-time Master's in Computer Science Student at Cleveland State University.
+
+- 🧑‍💼 I was working as a Senior Developer at **[Jivox](https://jivox.com/)**
 
 - 🌱 Always eager to improve my **Data Structures and Algorithms** skills.
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 🏛️ 3 years of Solid development experience.
+- 🏛️ 4.5 years of Solid development experience.
 
 - 🍪 Expertise in building custom and scalable code base.
 - ⚡ Fun fact: **I love travelling**
