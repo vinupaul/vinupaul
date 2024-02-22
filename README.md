@@ -15,7 +15,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 🏛️ 4.5 years of Solid development experience.
+- 🏛️ 4 plus years of Solid development experience.
 
 - 🍪 Expertise in building custom and scalable code base.
 - ⚡ Fun fact: **I love travelling**
