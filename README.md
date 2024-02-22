@@ -5,7 +5,9 @@
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently working as a full-time Master's in Computer Science Student at Rivier University.
+- 🔭 I’m currently pursuing my Master's in Computer Science Student at Rivier University.
+
+- 📷 I'm working as a Social Media Manger at Rivier Univeristy.
 
 - 🧑‍💼 I was working as a Senior Developer at **[Jivox](https://jivox.com/)**
 
