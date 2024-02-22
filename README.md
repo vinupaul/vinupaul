@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently working as a full-time Master's in Computer Science Student at Cleveland State University.
+- 🔭 I’m currently working as a full-time Master's in Computer Science Student at Rivier University.
 
 - 🧑‍💼 I was working as a Senior Developer at **[Jivox](https://jivox.com/)**
 
