@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my Master's in Computer Science Student at Rivier University.
 
-- 📷 I'm working as a Social Media Manger at Rivier Univeristy.
+- 📷 I'm working as a Social Media Manger, Teaching assistant and a Graduate Assitant at Rivier Univeristy.
 
 - 🧑‍💼 I was working as a Senior Developer at **[Jivox](https://jivox.com/)**
 
@@ -24,7 +24,7 @@
 
 ## 📞 Contact me
 
-- 📫 Email: **vinupaul9999@gmail.com**
+- 📫 Email: **vpaull@rivier.edu**
 
 <br/>
 
